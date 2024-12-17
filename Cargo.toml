@@ -1,0 +1,6 @@
+[package]
+name = "packrs"
+description = "Simple, easy to use atlas packing utilities for Rust."
+license = "GPLv3 License"
+edition = "2021"
+version = "0.0.0"
